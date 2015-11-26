@@ -4,13 +4,13 @@ Metode
 Poziv
 -----
 
-Primjer poziva nestatièke metode. Metoda koja je privatna nije dostupna i 
-prevoditelj javlja pogrešku.
+Primjer poziva nestatiÄke metode. Metoda koja je privatna nije dostupna i 
+prevoditelj javlja pogreÅ¡ku.
 
 
 ParametarVrijedn
 ----------------
-Metodi se prenosi vrijednosni tip kao parametar: promjene u metodi æe se po
+Metodi se prenosi vrijednosni tip kao parametar: promjene u metodi Ä‡e se po
 povratku izgubiti!
 
 
@@ -21,28 +21,28 @@ Isto kao gore.
 
 ParametarRefTip
 ---------------
-Metodi se prenosi referenti tip kao parametar: promjene unutar metode æe 
+Metodi se prenosi referenti tip kao parametar: promjene unutar metode Ä‡e 
 promijeniti i izvorni objekt!
 
 
 Ref
 ---
-Primjer korištenja dodatnog atributa ref za parametre.
+Primjer koriÅ¡tenja dodatnog atributa ref za parametre.
 
 
 Out
 ---
-Primjer korištenja dodatnog atributa out za parametre.
+Primjer koriÅ¡tenja dodatnog atributa out za parametre.
 
 
 Zamijeni
 --------
-Primjer korištenja dodatnog atributa ref kod referentnih tipova.
+Primjer koriÅ¡tenja dodatnog atributa ref kod referentnih tipova.
 
 
-ZamijeniGenerièki
+ZamijeniGeneriÄki
 -----------------
-Primjer kako iz metode zadane generièkim tipom prevoditelj 
+Primjer kako iz metode zadane generiÄkim tipom prevoditelj 
 automatski stvara zasebne implementacije za pojedine konkretne
 tipove.
 
@@ -59,19 +59,19 @@ Primjer metoda s promjenjivim brojem argumenata.
 
 new1
 ----
-Primjer korištenja modifikatora new kada u baznoj klasi postoji istoimeni èlan 
+Primjer koriÅ¡tenja modifikatora new kada u baznoj klasi postoji istoimeni Älan 
 (metoda, svojstvo)
 
 
 new2
 ----
-Primjer korištenja modifikatora new 
-korak 1: u klasi Izvedena je dodana virtualna metoda IspišiMiÈlanove
+Primjer koriÅ¡tenja modifikatora new 
+korak 1: u klasi Izvedena je dodana virtualna metoda IspiÅ¡iMiÄŒlanove
 
 
 new3
 ----
-Primjer korištenja modifikatora new 
+Primjer koriÅ¡tenja modifikatora new 
 korak 2: u baznoj klasi je dodana virtualna metoda, a metodi u izvedenoj je 
 dodan modifikator new virtual
 
