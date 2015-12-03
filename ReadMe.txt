@@ -75,3 +75,7 @@ Primjer korištenja modifikatora new
 korak 2: u baznoj klasi je dodana virtualna metoda, a metodi u izvedenoj je 
 dodan modifikator new virtual
 
+
+ProsirujuceMetode
+-----------------
+Primjer kako se definiraju proširujuće metode
