@@ -3,9 +3,13 @@ Metode
 
 Poziv
 -----
-
 Primjer poziva nestatičke metode. Metoda koja je privatna nije dostupna i 
 prevoditelj javlja pogrešku.
+
+
+Preopterecenje
+--------------
+Primjer preopterećenja metoda i njihova poziva.
 
 
 ParametarVrijedn
