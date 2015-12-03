@@ -12,6 +12,10 @@ Preopterecenje
 Primjer preopterećenja metoda i njihova poziva.
 
 
+PreopterecenjePodrazumijevaniArg
+--------------------------------
+Primjer preopterećenja metoda s podrazumijevanim (default) argumentima te njihova poziva.
+
 ParametarVrijedn
 ----------------
 Metodi se prenosi vrijednosni tip kao parametar: promjene u metodi će se po
