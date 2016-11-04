@@ -1,20 +1,15 @@
 Metode
 ======
 
-Poziv
------
-Primjer poziva nestatičke metode. Metoda koja je privatna nije dostupna i 
-prevoditelj javlja pogrešku.
-
-
-Preopterecenje
+Preopterećenje
 --------------
-Primjer preopterećenja metoda i njihova poziva.
+Primjer preopterećenja metoda i razlučivanja njihova poziva.
 
 
 PreopterecenjePodrazumijevaniArg
 --------------------------------
 Primjer preopterećenja metoda s podrazumijevanim (default) argumentima te njihova poziva.
+
 
 ParametarVrijedn
 ----------------

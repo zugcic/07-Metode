@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Poziv")]
+[assembly: AssemblyTitle("Testovi")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Envox Lab")]
-[assembly: AssemblyProduct("Poziv")]
-[assembly: AssemblyCopyright("Copyright © Envox Lab 2008")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("Testovi")]
+[assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("53a6698f-d4ef-47f1-aea8-e82f96ca709e")]
+[assembly: Guid("c236bc68-4dc4-464d-86f9-3c5637101437")]
 
 // Version information for an assembly consists of the following four values:
 //
