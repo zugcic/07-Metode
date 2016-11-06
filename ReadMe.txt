@@ -43,9 +43,14 @@ automatski stvara zasebne implementacije za pojedine konkretne
 tipove.
 
 
-Virtualne
----------
-Primjer poziva virtualnih metoda.
+VirtualneMetode
+---------------
+Primjer poziva običnih i virtualnih metoda.
+
+
+CrtanjeLikova
+---------------
+Ilustracija korištenja virtualnih metoda.
 
 
 Params

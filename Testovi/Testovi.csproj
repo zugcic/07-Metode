@@ -58,6 +58,7 @@
     <Compile Include="TestPreopterećenjaMetode.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestRefParametar.cs" />
+    <Compile Include="TestVirtualnihMetoda.cs" />
     <Compile Include="TestZamjeneObjekata.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -76,6 +77,10 @@
     <ProjectReference Include="..\RefParametar\RefParametar.csproj">
       <Project>{da8ee9f2-83c2-477c-9540-541d541540d0}</Project>
       <Name>RefParametar</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VirtualneMetode\VirtualneMetode.csproj">
+      <Project>{132886e2-3206-49dd-8c64-46a73fd636e0}</Project>
+      <Name>VirtualneMetode</Name>
     </ProjectReference>
     <ProjectReference Include="..\ZamjenaObjekata\ZamjenaObjekata.csproj">
       <Project>{0594e6a3-112f-45b2-9c29-a6eb30f81f61}</Project>
