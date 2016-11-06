@@ -21,8 +21,8 @@ ReferentniTipKaoParametar
 Ilustracija što se događa kada se referentni tip prosljeđuje metodi kao argument.
 
 
-Ref
----
+RefParam
+--------
 Primjer korištenja dodatnog atributa ref za parametre.
 
 
