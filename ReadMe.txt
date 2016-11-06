@@ -6,7 +6,7 @@ Preopterećenje
 Primjer preopterećenja metoda i razlučivanja njihova poziva.
 
 
-PreopterecenjePodrazumijevaniArg
+PreopterećenjePodrazumijevaniArg
 --------------------------------
 Primjer preopterećenja metoda s podrazumijevanim (default) argumentima te njihova poziva.
 

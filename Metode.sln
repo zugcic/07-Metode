@@ -34,8 +34,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZamijeniGenerički", "Zamij
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProsirujuceMetode", "ProsirujuceMetode\ProsirujuceMetode.csproj", "{8D828992-DDDD-4393-98F5-968D58CB2192}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreopterecenjePodrazumijevaniArg", "PreopterecenjePodrazumijevaniArg\PreopterecenjePodrazumijevaniArg.csproj", "{8FE8D674-D900-4FF3-9B74-0E6A9D694A84}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00", "00", "{EEB640F2-9BC1-4C6B-B33D-124FA172B347}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Preopterećenje", "Preopterećenje\Preopterećenje.csproj", "{ADB29469-7C55-4BCB-937A-CA74921D636A}"
@@ -43,6 +41,8 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01", "01", "{ABCC070B-CB7D-4EA7-81A1-3D9D2994034C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testovi", "Testovi\Testovi.csproj", "{C236BC68-4DC4-464D-86F9-3C5637101437}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreopterećenjePodrazumijevaniArg", "PreopterećenjePodrazumijevaniArg\PreopterećenjePodrazumijevaniArg.csproj", "{8FE8D674-D900-4FF3-9B74-0E6A9D694A84}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -102,10 +102,6 @@ Global
 		{8D828992-DDDD-4393-98F5-968D58CB2192}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D828992-DDDD-4393-98F5-968D58CB2192}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D828992-DDDD-4393-98F5-968D58CB2192}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8FE8D674-D900-4FF3-9B74-0E6A9D694A84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8FE8D674-D900-4FF3-9B74-0E6A9D694A84}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8FE8D674-D900-4FF3-9B74-0E6A9D694A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8FE8D674-D900-4FF3-9B74-0E6A9D694A84}.Release|Any CPU.Build.0 = Release|Any CPU
 		{ADB29469-7C55-4BCB-937A-CA74921D636A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{ADB29469-7C55-4BCB-937A-CA74921D636A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADB29469-7C55-4BCB-937A-CA74921D636A}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -114,11 +110,16 @@ Global
 		{C236BC68-4DC4-464D-86F9-3C5637101437}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C236BC68-4DC4-464D-86F9-3C5637101437}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C236BC68-4DC4-464D-86F9-3C5637101437}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FE8D674-D900-4FF3-9B74-0E6A9D694A84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FE8D674-D900-4FF3-9B74-0E6A9D694A84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FE8D674-D900-4FF3-9B74-0E6A9D694A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FE8D674-D900-4FF3-9B74-0E6A9D694A84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{ADB29469-7C55-4BCB-937A-CA74921D636A} = {EEB640F2-9BC1-4C6B-B33D-124FA172B347}
+		{8FE8D674-D900-4FF3-9B74-0E6A9D694A84} = {ABCC070B-CB7D-4EA7-81A1-3D9D2994034C}
 	EndGlobalSection
 EndGlobal

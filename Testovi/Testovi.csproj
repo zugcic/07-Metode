@@ -45,16 +45,23 @@
     </When>
     <Otherwise>
       <ItemGroup>
-        <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework" />
+        <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework">
+          <Private>False</Private>
+        </Reference>
       </ItemGroup>
     </Otherwise>
   </Choose>
   <ItemGroup>
     <Compile Include="ConsoleTest.cs" />
+    <Compile Include="TestPreopterećenjePorazumijevaniArg.cs" />
     <Compile Include="TestPreopterećenjaMetode.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\PreopterećenjePodrazumijevaniArg\PreopterećenjePodrazumijevaniArg.csproj">
+      <Project>{8fe8d674-d900-4ff3-9b74-0e6a9d694a84}</Project>
+      <Name>PreopterećenjePodrazumijevaniArg</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Preopterećenje\Preopterećenje.csproj">
       <Project>{adb29469-7c55-4bcb-937a-ca74921d636a}</Project>
       <Name>Preopterećenje</Name>
