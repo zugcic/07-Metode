@@ -58,8 +58,8 @@ Params
 Primjer metoda s promjenjivim brojem argumenata.
 
 
-new1
-----
+ModifikatorNew
+--------------
 Primjer korištenja modifikatora new kada u baznoj klasi postoji istoimeni član 
 (metoda, svojstvo)
 

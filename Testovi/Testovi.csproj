@@ -53,6 +53,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="ConsoleTest.cs" />
+    <Compile Include="TestModifikatoraNew.cs" />
     <Compile Include="TestOutParametar.cs" />
     <Compile Include="TestPreopterećenjePorazumijevaniArg.cs" />
     <Compile Include="TestPreopterećenjaMetode.cs" />
@@ -62,6 +63,10 @@
     <Compile Include="TestZamjeneObjekata.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\new1\ModifikatorNew.csproj">
+      <Project>{7a64da10-b40c-44a3-8d73-34ca4d90a68d}</Project>
+      <Name>ModifikatorNew</Name>
+    </ProjectReference>
     <ProjectReference Include="..\OutParametar\OutParametar.csproj">
       <Project>{49e04397-3610-48b9-b8c9-166eff1f24d0}</Project>
       <Name>OutParametar</Name>
