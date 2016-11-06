@@ -4,6 +4,16 @@ namespace Vsite.CSharp
 {
     public class RefParametar
     {
+        static void Main(string[] args)
+        {
+            PozivMetodeDodajDeset(5);
+
+            PozivMetodePromijeniOsobu(new Osoba("Janko", 1), "Pero", 12);
+
+            Console.WriteLine("GOTOVO!!!");
+            Console.ReadKey();
+        }
+
         // TODO: Dodati parametru metode modifikator ref tako da se argument x metodi prenosi po referenci te promijeniti poziv metode. Pokrenuti program i provjeriti ispis.
         static void DodajDeset(int x)
         {
@@ -48,16 +58,6 @@ namespace Vsite.CSharp
             PromijeniOsobu(osoba, novoIme, noviMatičniBroj);
             Console.WriteLine(string.Format("Nakon metode PromijeniOsobu: {0}", osoba));
             return osoba;
-        }
-
-        static void Main(string[] args)
-        {
-            PozivMetodeDodajDeset(5);
-
-            PozivMetodePromijeniOsobu(new Osoba("Janko", 1), "Pero", 12);
-
-            Console.WriteLine("GOTOVO!!!");
-            Console.ReadKey();
         }
     }
 }

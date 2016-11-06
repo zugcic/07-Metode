@@ -53,12 +53,17 @@
   </Choose>
   <ItemGroup>
     <Compile Include="ConsoleTest.cs" />
+    <Compile Include="TestOutParametar.cs" />
     <Compile Include="TestPreopterećenjePorazumijevaniArg.cs" />
     <Compile Include="TestPreopterećenjaMetode.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestRefParametar.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\OutParametar\OutParametar.csproj">
+      <Project>{49e04397-3610-48b9-b8c9-166eff1f24d0}</Project>
+      <Name>OutParametar</Name>
+    </ProjectReference>
     <ProjectReference Include="..\PreopterećenjePodrazumijevaniArg\PreopterećenjePodrazumijevaniArg.csproj">
       <Project>{8fe8d674-d900-4ff3-9b74-0e6a9d694a84}</Project>
       <Name>PreopterećenjePodrazumijevaniArg</Name>
