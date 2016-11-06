@@ -65,7 +65,11 @@
     <Compile Include="TestZamjeneObjekata.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\new1\ModifikatorNew.csproj">
+    <ProjectReference Include="..\MetodeProširenja\MetodeProširenja.csproj">
+      <Project>{8d828992-dddd-4393-98f5-968d58cb2192}</Project>
+      <Name>MetodeProširenja</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ModifikatorNew\ModifikatorNew.csproj">
       <Project>{7a64da10-b40c-44a3-8d73-34ca4d90a68d}</Project>
       <Name>ModifikatorNew</Name>
     </ProjectReference>
@@ -84,10 +88,6 @@
     <ProjectReference Include="..\Preopterećenje\Preopterećenje.csproj">
       <Project>{adb29469-7c55-4bcb-937a-ca74921d636a}</Project>
       <Name>Preopterećenje</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\ProsirujuceMetode\MetodeProširenja.csproj">
-      <Project>{8d828992-dddd-4393-98f5-968d58cb2192}</Project>
-      <Name>MetodeProširenja</Name>
     </ProjectReference>
     <ProjectReference Include="..\RefParametar\RefParametar.csproj">
       <Project>{da8ee9f2-83c2-477c-9540-541d541540d0}</Project>
