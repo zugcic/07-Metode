@@ -11,21 +11,14 @@ PreopterećenjePodrazumijevaniArg
 Primjer preopterećenja metoda s podrazumijevanim (default) argumentima te njihova poziva.
 
 
-ParametarVrijedn
-----------------
-Metodi se prenosi vrijednosni tip kao parametar: promjene u metodi će se po
-povratku izgubiti!
+VrijednosniTipKaoParametar
+--------------------------
+Ilustracija što se događa kada se vrijednosni tip prosljeđuje metodi kao argument.
 
 
-ParametarStruktura
-------------------
-Isto kao gore.
-
-
-ParametarRefTip
----------------
-Metodi se prenosi referenti tip kao parametar: promjene unutar metode će 
-promijeniti i izvorni objekt!
+ReferentniTipKaoParametar
+-------------------------
+Ilustracija što se događa kada se referentni tip prosljeđuje metodi kao argument.
 
 
 Ref

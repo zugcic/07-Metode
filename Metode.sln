@@ -46,6 +46,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02", "02", "{AEC291A1-494B-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VrijednosniTipKaoParametar", "VrijednosniTipKaoParametar\VrijednosniTipKaoParametar.csproj", "{1CA23D6B-ACF8-4B36-8EA8-009FB7485DE0}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03", "03", "{C6BE63CD-0646-411C-9487-DD0CCD19FF41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferentniTipKaoParametar", "ReferentniTipKaoParametar\ReferentniTipKaoParametar.csproj", "{3CB61FE9-753A-4C71-825C-D9A98F49D67A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -116,6 +120,10 @@ Global
 		{1CA23D6B-ACF8-4B36-8EA8-009FB7485DE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CA23D6B-ACF8-4B36-8EA8-009FB7485DE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CA23D6B-ACF8-4B36-8EA8-009FB7485DE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CB61FE9-753A-4C71-825C-D9A98F49D67A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB61FE9-753A-4C71-825C-D9A98F49D67A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CB61FE9-753A-4C71-825C-D9A98F49D67A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CB61FE9-753A-4C71-825C-D9A98F49D67A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -124,5 +132,6 @@ Global
 		{ADB29469-7C55-4BCB-937A-CA74921D636A} = {EEB640F2-9BC1-4C6B-B33D-124FA172B347}
 		{8FE8D674-D900-4FF3-9B74-0E6A9D694A84} = {ABCC070B-CB7D-4EA7-81A1-3D9D2994034C}
 		{1CA23D6B-ACF8-4B36-8EA8-009FB7485DE0} = {AEC291A1-494B-46F3-AA8E-E4ECCA6E58B5}
+		{3CB61FE9-753A-4C71-825C-D9A98F49D67A} = {C6BE63CD-0646-411C-9487-DD0CCD19FF41}
 	EndGlobalSection
 EndGlobal
