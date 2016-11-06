@@ -8,8 +8,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_", "_", "{52C063E9-4DDE-48
 		ReadMe.txt = ReadMe.txt
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParametarVrijedn", "ParametarVrijedn\ParametarVrijedn.csproj", "{1CA23D6B-ACF8-4B36-8EA8-009FB7485DE0}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParametarRefTip", "ParametarRef\ParametarRefTip.csproj", "{6F3AA0C5-8FBC-4C16-AB17-523599F0DBFE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParametarStruktura", "ParametarStruktura\ParametarStruktura.csproj", "{BC67C3CF-23AB-4929-922C-C6EA870B68BB}"
@@ -44,16 +42,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testovi", "Testovi\Testovi.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreopterećenjePodrazumijevaniArg", "PreopterećenjePodrazumijevaniArg\PreopterećenjePodrazumijevaniArg.csproj", "{8FE8D674-D900-4FF3-9B74-0E6A9D694A84}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02", "02", "{AEC291A1-494B-46F3-AA8E-E4ECCA6E58B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VrijednosniTipKaoParametar", "VrijednosniTipKaoParametar\VrijednosniTipKaoParametar.csproj", "{1CA23D6B-ACF8-4B36-8EA8-009FB7485DE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1CA23D6B-ACF8-4B36-8EA8-009FB7485DE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1CA23D6B-ACF8-4B36-8EA8-009FB7485DE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1CA23D6B-ACF8-4B36-8EA8-009FB7485DE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1CA23D6B-ACF8-4B36-8EA8-009FB7485DE0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6F3AA0C5-8FBC-4C16-AB17-523599F0DBFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6F3AA0C5-8FBC-4C16-AB17-523599F0DBFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F3AA0C5-8FBC-4C16-AB17-523599F0DBFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -114,6 +112,10 @@ Global
 		{8FE8D674-D900-4FF3-9B74-0E6A9D694A84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FE8D674-D900-4FF3-9B74-0E6A9D694A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FE8D674-D900-4FF3-9B74-0E6A9D694A84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CA23D6B-ACF8-4B36-8EA8-009FB7485DE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CA23D6B-ACF8-4B36-8EA8-009FB7485DE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CA23D6B-ACF8-4B36-8EA8-009FB7485DE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CA23D6B-ACF8-4B36-8EA8-009FB7485DE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -121,5 +123,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{ADB29469-7C55-4BCB-937A-CA74921D636A} = {EEB640F2-9BC1-4C6B-B33D-124FA172B347}
 		{8FE8D674-D900-4FF3-9B74-0E6A9D694A84} = {ABCC070B-CB7D-4EA7-81A1-3D9D2994034C}
+		{1CA23D6B-ACF8-4B36-8EA8-009FB7485DE0} = {AEC291A1-494B-46F3-AA8E-E4ECCA6E58B5}
 	EndGlobalSection
 EndGlobal
