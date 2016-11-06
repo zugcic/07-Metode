@@ -53,30 +53,17 @@ CrtanjeLikova
 Ilustracija korištenja virtualnih metoda.
 
 
-Params
-------
-Primjer metoda s promjenjivim brojem argumenata.
-
-
 ModifikatorNew
 --------------
 Primjer korištenja modifikatora new kada u baznoj klasi postoji istoimeni član 
 (metoda, svojstvo)
 
 
-new2
-----
-Primjer korištenja modifikatora new 
-korak 1: u klasi Izvedena je dodana virtualna metoda IspišiMiČlanove
+Params
+------
+Primjer metoda s promjenjivim brojem argumenata.
 
 
-new3
-----
-Primjer korištenja modifikatora new 
-korak 2: u baznoj klasi je dodana virtualna metoda, a metodi u izvedenoj je 
-dodan modifikator new virtual
-
-
-ProsirujuceMetode
+MetodeProširenja
 -----------------
-Primjer kako se definiraju proširujuće metode
+Primjer kako se definiraju metode proširenja.
