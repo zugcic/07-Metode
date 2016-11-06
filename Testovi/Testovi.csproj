@@ -58,6 +58,7 @@
     <Compile Include="TestPreopterećenjaMetode.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestRefParametar.cs" />
+    <Compile Include="TestZamjeneObjekata.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\OutParametar\OutParametar.csproj">
@@ -75,6 +76,10 @@
     <ProjectReference Include="..\RefParametar\RefParametar.csproj">
       <Project>{da8ee9f2-83c2-477c-9540-541d541540d0}</Project>
       <Name>RefParametar</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ZamjenaObjekata\ZamjenaObjekata.csproj">
+      <Project>{0594e6a3-112f-45b2-9c29-a6eb30f81f61}</Project>
+      <Name>ZamjenaObjekata</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>

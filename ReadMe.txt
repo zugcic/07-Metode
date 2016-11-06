@@ -21,23 +21,23 @@ ReferentniTipKaoParametar
 Ilustracija što se događa kada se referentni tip prosljeđuje metodi kao argument.
 
 
-RefParam
---------
+RefParametar
+------------
 Primjer korištenja dodatnog atributa ref za parametre.
 
 
-Out
----
+OutParametar
+------------
 Primjer korištenja dodatnog atributa out za parametre.
 
 
-Zamijeni
---------
-Primjer korištenja dodatnog atributa ref kod referentnih tipova.
+ZamjenaObjekata
+---------------
+Primjer korištenja dodatnog atributa ref za zamjenu dva objekta.
 
 
-ZamijeniGenerički
------------------
+GeneričkaZamjena
+----------------
 Primjer kako iz metode zadane generičkim tipom prevoditelj 
 automatski stvara zasebne implementacije za pojedine konkretne
 tipove.
