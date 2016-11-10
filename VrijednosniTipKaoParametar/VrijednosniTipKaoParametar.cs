@@ -47,7 +47,7 @@ namespace Vsite.CSharp
 
         static void Main(string[] args)
         {
-
+			 
             int n = 5;
             Console.WriteLine("Prije metode Uvećaj: {0}", n);
 
