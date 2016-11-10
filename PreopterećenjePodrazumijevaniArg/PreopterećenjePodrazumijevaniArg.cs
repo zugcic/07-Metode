@@ -10,10 +10,14 @@ namespace Vsite.CSharp
             return x + y + z;
         }
 
-        // TODO: Preopteretiti funkciju Zbroji novom funkcijom public static int Zbroji(int x, int y) koja će vratiti zbroj argumenata. Ponovno pokrenuti programa te usporediti ispise.
+		// TODO: Preopteretiti funkciju Zbroji novom funkcijom public static int Zbroji(int x, int y) koja će vratiti zbroj argumenata. Ponovno pokrenuti programa te usporediti ispise.
+		public static int Zbroji(int x, int y)
+		{
+			return x + y;
+		}
 
-        
-        static void Main(string[] args)
+
+		static void Main(string[] args)
         {
             Console.WriteLine(Zbroji(5, 6, 7));
             Console.WriteLine(Zbroji(5, 5));
