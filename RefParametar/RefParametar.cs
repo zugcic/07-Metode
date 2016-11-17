@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Vsite.CSharp
+namespace Vsite.CSharp		  //Dz
 {
     public class RefParametar
     {
